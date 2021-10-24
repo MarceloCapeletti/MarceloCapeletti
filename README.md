@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👋 Hi there 
 
+Welcome to my GitHub Page ☕
 <!--
 **MarceloCapeletti/MarceloCapeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Marcelo Bruno Capeletti.  
+I have a bacharel degree in Electrical Engineering and working on detection of fraud in eletrical energy consumption.    
+
+Check-out my anothers professional profiles:  
+💼 [LinkedIn](https://www.linkedin.com/in/marcelo-capeletti/)  
+👨‍🎓 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+
+## Education
+
+- (2020 - current) M.Sc. in Electrical Engineering at Federal University of Santa Catarina (UFSM)
+- (2015 - 2020) Bachelor degree in Electrical Engineering at Federal University of Santa Maria (UFSM)
+- (2011 - 2013) Technologist in Systems Analysis and Development (FAE-Erechim)
+
+## Certifications
+
+- (2020-current) Machine Learning - IAExpert.academy  
+- (2020) Artificial Beural Networks in Python (Udemy, Credential ID UC-f1b7e33a-764f-4156-bef4-a1fa981bc31b)
+
+## Main Language Programming Skills
+
+- Python
+
+# Languages
+
+- Português Brasileiro (native)
+- English (advanced)
+
+# Internships 
+
+- (2020-2020) Institute of Intelligent Networks (INRI) Santa Maria, Brazil 
+Photovoltaic Inverter Metrologist
+- (2018-2020) Center of Excellence in Energy and Power Systems (CEESP-UFSM) Santa Maria, Brazil 
+Undergraduate Research Project
