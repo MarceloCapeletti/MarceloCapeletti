@@ -32,7 +32,7 @@ Check-out my anothers professional profiles:
 ## Certifications
 
 - (2020-current) Machine Learning - IAExpert.academy  
-- (2020) Artificial Beural Networks in Python (Udemy, Credential ID UC-f1b7e33a-764f-4156-bef4-a1fa981bc31b)
+- (2020) Artificial Neural Networks in Python (Udemy, Credential ID UC-f1b7e33a-764f-4156-bef4-a1fa981bc31b)
 
 ## Main Language Programming Skills
 
