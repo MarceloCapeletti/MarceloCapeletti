@@ -40,7 +40,7 @@ Check-out my anothers professional profiles:
 
 # Languages
 
-- Português Brasileiro (native)
+- Brazilian portuguese (native)
 - English (advanced)
 
 # Internships 
