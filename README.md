@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 My name is Marcelo Bruno Capeletti.  
-I have a bacharel degree in Electrical Engineering and working on detection of fraud in eletrical energy consumption.    
+I have been developing my skills in progamming and data science, currently scholarship holder in research and development working on detection of outliers and fraud in consumption of energy for a power distribution company.
+
 
 Check-out my anothers professional profiles:  
 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-capeletti/)  
