@@ -22,7 +22,7 @@ I have been developing my skills in progamming and data science, currently schol
 
 Check-out my anothers professional profiles:  
 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-capeletti/)  
-👨‍🎓 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+👨‍🎓 [Lattes](http://lattes.cnpq.br/1922799731958383)
 
 ## Education
 
