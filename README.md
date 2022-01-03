@@ -38,13 +38,15 @@ Check-out my anothers professional profiles:
 ## Main Language Programming Skills
 
 - Python
+- SQL
+- VBA
 
-# Languages
+## Languages
 
 - Brazilian portuguese (native)
 - English (advanced)
 
-# Internships 
+## Internships 
 
 - (2020-2020) Institute of Intelligent Networks (INRI) Santa Maria, Brazil 
 Photovoltaic Inverter Metrologist
