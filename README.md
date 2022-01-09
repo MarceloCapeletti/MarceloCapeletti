@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Marcelo Bruno Capeletti.  
-I have been developing my skills in progamming and data science, currently scholarship holder in research and development working on detection of outliers and fraud in consumption of energy for a power distribution company.
+I am a Data Scientist with 3 years experience in IT support and 3 years in research of data science, machine learning, forecasting and optimization. I help companies get the most out of their data, through innovation, research and software development.
 
 
 Check-out my anothers professional profiles:  
