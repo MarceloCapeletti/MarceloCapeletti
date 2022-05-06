@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 My name is Marcelo Bruno Capeletti.  
-I am a Data Scientist with 3 years experience in IT support and 4 years in Data Science research.
 
 Check-out my anothers professional profiles:  
 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-capeletti/)  
