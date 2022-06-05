@@ -46,7 +46,5 @@ Check-out my anothers professional profiles:
 
 ## Internships 
 
-- (2020-2020) Institute of Intelligent Networks (INRI) Santa Maria, Brazil 
-Photovoltaic Inverter Metrologist
 - (2018-2020) Center of Excellence in Energy and Power Systems (CEESP-UFSM) Santa Maria, Brazil 
 Undergraduate Research Project
