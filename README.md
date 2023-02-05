@@ -24,7 +24,8 @@ Check-out my anothers professional profiles:
 
 ## Education
 
-- (2020 - current) M.Sc. in Electrical Engineering at Federal University of Santa Maria (UFSM)
+- (2022 - ) PhD in Electrical Engineering at Federal University of Santa Maria (UFSM)
+- (2020 - 2022) MSc in Electrical Engineering at Federal University of Santa Maria (UFSM)
 - (2015 - 2020) Bachelor degree in Electrical Engineering at Federal University of Santa Maria (UFSM)
 - (2011 - 2013) Technologist in Systems Analysis and Development (FAE-Erechim)
 
