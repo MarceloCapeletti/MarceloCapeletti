@@ -1,6 +1,4 @@
-### 👋 Hi there 
-
-Welcome to my GitHub Page ☕
+### 👋 Hi there  ☕
 <!--
 **MarceloCapeletti/MarceloCapeletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +36,6 @@ Check-out my anothers professional profiles:
 
 - Python
 - SQL
-- VBA
 
 ## Languages
 
